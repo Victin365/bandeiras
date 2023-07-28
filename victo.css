@@ -1,0 +1,39 @@
+.body{
+    background-color:black;
+}
+.flag{
+    margin: 40px;
+    width: 600px;
+}
+#one{
+height: 150px;
+background-color: blue;
+}
+
+#two{
+height: 150px;
+background-color: yellow;
+}
+
+#one1{
+height: 150px;
+background-color: green;
+}
+
+#two1{
+height: 150px;
+background-color: orange;
+}
+
+#one2{
+height: 150px;
+background-color: white;
+}
+
+#two2{
+margin-left: 220px;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color: red;
+}
